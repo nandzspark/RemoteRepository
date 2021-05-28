@@ -4,4 +4,8 @@ public class Xyz
 	{
 	System.out.println("From XYZ class");
 	}
+	public void hii()
+	{
+	System.out.println("From XYZ class - hii");
+	}
 }
